@@ -27,7 +27,7 @@ var controller = Botkit.facebookbot({
     validate_requests: true
 });
 
-// Create server 
+// Create server id
 var app = server(ops);
 
 
